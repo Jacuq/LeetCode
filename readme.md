@@ -10,6 +10,8 @@ Current list of solved problems:
  - 13.Roman to integer*
  - 20.Merge Two Sorted Lists
  - 141.Linked List Cycle
+ - 169.Happy Number
+ - 202.Majority Element
 
 **MEDIUM**
  - 537.Complex Number Multiplication (24.08.2021 daily challenge)
