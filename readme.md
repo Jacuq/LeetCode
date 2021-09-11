@@ -9,9 +9,12 @@ Current list of solved problems:
  - 9.Palindrome number*
  - 13.Roman to integer*
  - 20.Merge Two Sorted Lists
+ - 88.Merge Sorted Array
  - 141.Linked List Cycle
  - 169.Happy Number
  - 202.Majority Element
+ - 204.Count Primes
+ - 242.Valid Anagram
 
 **MEDIUM**
  - 537.Complex Number Multiplication (24.08.2021 daily challenge)
